@@ -15,11 +15,14 @@ if (!function_exists('add_action'))
 	die;
 
 // This plugin constants
-define('VWDFCS_FILE', __FILE__);
-define('VWDFCS_PATH', dirname(VWDFCS_FILE));
-define('VWDFCS_VERSION', '1.0.0');
+define('VWDFCN_FILE', __FILE__);
+define('VWDFCN_PATH', dirname(VWDFCN_FILE));
+define('VWDFCN_VERSION', '1.0.0');
 
 // Quick context check
 if (!is_admin() || (defined('DOING_AJAX') && DOING_AJAX))
 	return;
 
+// Load main class
+require_once(VWDFCN_PATH.'/admin/admin.php');
+VWDFCN_Admin::instance();
