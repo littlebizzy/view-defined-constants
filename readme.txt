@@ -75,7 +75,7 @@ We thank the following groups for their generous contributions to the WordPress 
 
 = How can I change this plugin's settings? =
 
-By default all CSS is disabled from WooCommerce. To be more selective, use the defined constant.
+Currently there is no settings page, but under Tools menu you can view the defined constants.
 
 = I have a suggestion, how can I let you know? =
 
