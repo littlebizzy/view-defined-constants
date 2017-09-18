@@ -1,9 +1,9 @@
 <?php
 /*
 Plugin Name: View Defined Constants
-Plugin URI: https://www.littlebizzy.com
+Plugin URI: https://www.littlebizzy.com/plugins/view-defined/constants
 Description: Displays all defined constants found by PHP (and WordPress) using a simple print method that can be easily accessed under the Tools menu in WP Admin.
-Version: 1.0
+Version: 1.0.0
 Author: LittleBizzy
 Author URI: https://www.littlebizzy.com
 License: GPL3
