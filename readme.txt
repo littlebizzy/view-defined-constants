@@ -1,6 +1,7 @@
 === View Defined Constants ===
 
 Contributors: littlebizzy
+Donate link: https://www.patreon.com/littlebizzy
 Tags: view, defined, constants, php, core, extensions, user, wp-config, functions
 Requires at least: 4.4
 Tested up to: 4.8
