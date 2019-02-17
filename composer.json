@@ -1,0 +1,16 @@
+{
+    "name": "littlebizzy/view-defined-constants",
+    "type": "wordpress-plugin",
+    "license": "GPLv3",
+    "homepage": "https://www.littlebizzy.com/plugins/view-defined-constants",
+    "description": "Displays all defined constants found by PHP (and WordPress) using a simple print method that can be easily accessed under the Tools menu in WP Admin.",
+    "keywords": ["wordpress","plugin","view","list","defined","constants","php","wp admin"],
+    "support": {
+        "issues": "https://github.com/littlebizzy/view-defined-constants/issues",
+        "forum": "https://www.littlebizzy.com/members"
+    }
+    "require": {
+        "php": "^7.2",
+        "composer/installers": "~1.0"
+    }
+}
